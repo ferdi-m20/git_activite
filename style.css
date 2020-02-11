@@ -1,0 +1,46 @@
+img {
+	width: 150px;
+	height: 150px;
+	border: 2px solid blue;
+	border-radius: 50%;
+}
+
+.photo {
+	text-align: center;
+}
+
+#bloc_page {
+	display: flex;
+}
+
+#partie_gauche {
+	display: flex;
+	flex-direction: column;
+	background-color: green;
+	
+}
+
+#partie_droite {
+	display: flex;
+	flex-direction: column;
+	background-color: yellow;
+	
+}
+
+i {
+	display: block;
+}
+.section_3 {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}
+
+li {
+	list-style-type: none;
+}
+
+.section_4 {
+	display: flex;
+	
+}
